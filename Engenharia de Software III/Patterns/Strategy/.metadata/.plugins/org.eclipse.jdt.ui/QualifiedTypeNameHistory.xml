@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="br.com.engs.petbuy.orcamento.Orcamento"/>
+    <fullyQualifiedTypeName name="br.com.engs.petbuy.imposto.ISS"/>
+    <fullyQualifiedTypeName name="br.com.engs.petbuy.imposto.ICMS"/>
+</qualifiedTypeNameHistroy>

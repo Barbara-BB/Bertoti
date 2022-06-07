@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;petBuy_strategy/src&apos;&#x0D;&#x0A;- Original project: &apos;pettBuy&apos;&#x0D;&#x0A;- Destination element: &apos;petBuy_strategy/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     pettBuy/src/br.com.engs.petbuy&#x0D;&#x0A;     pettBuy/src/br.com.engs.petbuy.orcamento&#x0D;&#x0A;     pettBuy/src/br.com.engs.petbuy.imposto" description="Copy packages" destination="=petBuy_strategy/src" element1="/src&lt;br.com.engs.petbuy" element2="/src&lt;br.com.engs.petbuy.orcamento" element3="/src&lt;br.com.engs.petbuy.imposto" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1654587725278" version="1.0"/>
+</session>

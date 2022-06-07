@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Windows\OneDrive\Área de Trabalho\Patterns\Observer\.metadata\.plugins\org.eclipse.jdt.core
+3476783887.index
+1865797976.index
+68056048.index

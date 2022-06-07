@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Windows\OneDrive\Área de Trabalho\Patterns\Strategy\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1685089517.index
+863640419.index
+1917915308.index
