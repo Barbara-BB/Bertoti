@@ -1,6 +1,5 @@
-*Strategy
 
-# FatecAPI-04
+# Strategy
 <html>
        <head></head>
        <body>
