@@ -1,7 +1,6 @@
 
-*Observer
 
-
+#Singleton
 <html>
        <head></head>
        <body>
